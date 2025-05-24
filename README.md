@@ -2,6 +2,16 @@
 
 Welcome! This repository contains the full pipeline to extract directed graphs from challenging images and solve the minimum fuel problem for Operation Final Front++.
 
+```bash
+
+    ___                     __       ____        __  __       
+   /   |  _________  ____ _/ /_     / __ \____ _/ /_/ /_____ _
+  / /| | / ___/ __ \/ __ `/ __ \   / / / / __ `/ __/ __/ __ `/
+ / ___ |/ /  / / / / /_/ / /_/ /  / /_/ / /_/ / /_/ /_/ /_/ / 
+/_/  |_/_/  /_/ /_/\__,_/_.___/  /_____/\__,_/\__/\__/\__,_/  
+
+```
+
 ---
 
 ## Quickstart
