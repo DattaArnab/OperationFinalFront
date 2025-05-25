@@ -41,6 +41,7 @@ Main dependencies:
 - pandas
 - easyocr
 - pytesseract
+(`sudo apt install pytesseract`)
 
 
 ### 3. Run the pipeline using the pretrained model for digit classification
