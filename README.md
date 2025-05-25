@@ -48,7 +48,8 @@ Main dependencies:
 ```bash
 python fuel.py /path/to/image
 ```
-
+For example
+`python fuel.py graphs_images/1.png`
 
 ---
 
